@@ -11,3 +11,6 @@
 ```bash
 code snippet can be added here 
 ```
+
+
+[My personal README](https://github.com/medhanitasrat/medhanitasrat/blob/main/README.md)
